@@ -6,4 +6,4 @@ print(f"cuda count: {torch.cuda.device_count()}")
 print(f"cuda name: {torch.cuda.get_device_name(0)}")
 
 
-print("hello world.")
+print("hello world")
