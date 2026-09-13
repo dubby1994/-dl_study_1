@@ -153,9 +153,9 @@ activemq-data/
 .env
 .envrc
 .venv
-env/
+config/
 venv/
-ENV/
+config/
 env.bak/
 venv.bak/
 
