@@ -231,3 +231,4 @@ src/main/resources/gitignore/*
 
 # onnx
 *.onnx
+*.onnx.data
