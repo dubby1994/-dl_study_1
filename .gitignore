@@ -229,6 +229,7 @@ src/main/gen
 src/main/resources/templates.list
 src/main/resources/gitignore/*
 
-# onnx
+# model file
 *.onnx
 *.onnx.data
+*.pt
